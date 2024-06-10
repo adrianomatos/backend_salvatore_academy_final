@@ -1,7 +1,7 @@
 {
-  "name": "backend_salvatore_academy_preparando_para_integrar_com_frontend",
+  "name": "backend_salvatore_academy_final",
   "version": "1.0.0",
-  "description": "Preparando BackEnd para integrar com Frontend - Projeto da missão de aprendizagem Dev Backend JavaScript iniciante",
+  "description": "Backend Salvatore Academy - Teste Final",
   "main": "src/index.js",
   "scripts": {
     "start": "node index.js",
